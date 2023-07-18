@@ -292,7 +292,7 @@ nav>ul>li>button>img{
 
 
 /* media quarry start */
-@media screen and (max-width:416px) {
+@media screen and (min-width:1px) and (max-width:416px) {
 body{
     width: 416px;
     height: auto;
